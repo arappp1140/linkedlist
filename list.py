@@ -1,7 +1,3 @@
-#SINGLE LINKED LIST
-#=======================================================================
- 
- 
 import os
  
 # Membuat class untuk node
